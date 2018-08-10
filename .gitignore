@@ -5,6 +5,8 @@ ld42_unity/[Bb]uild/
 ld42_unity/[Bb]uilds/
 ld42_unity/Assets/AssetStoreTools*
 
+snapshots/
+
 # Visual Studio cache directory
 ld42_unity/.vs/
 
